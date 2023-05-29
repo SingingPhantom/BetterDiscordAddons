@@ -18,7 +18,7 @@
   --danger-color: #7C1D1D;
   --url-color: var(--main-color);
   --background-image: transparent;
-  --background-shading: 100%;
+  --background-shading: 20%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
