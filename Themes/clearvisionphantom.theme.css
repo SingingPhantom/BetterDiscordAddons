@@ -12,8 +12,8 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #3A174D;
-  --hover-color: #AF1EFF;
+  --main-color: #7D22AD;
+  --hover-color: #63188B;
   --success-color: #000000;
   --danger-color: #7C1D1D;
   --url-color: var(--main-color);
@@ -30,7 +30,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: transparent;
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -41,7 +41,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-image: transparent;
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -67,7 +67,7 @@
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
-  --backdrop-overlay: rgba(12,12,12,1);
+  --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
   --backdrop-size: var(--background-size);
